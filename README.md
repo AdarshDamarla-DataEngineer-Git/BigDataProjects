@@ -251,7 +251,6 @@ ORDER BY delayed_order_lines DESC;
 - [Architecture and processing flows](docs/ARCHITECTURE.md)
 - [Data model and transformation lineage](docs/DATA_MODEL.md)
 - [Deployment and operations](docs/DEPLOYMENT.md)
-- [Project showcase](docs/PROJECT_SHOWCASE.md)
 
 ## Author
 
